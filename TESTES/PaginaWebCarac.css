@@ -9,6 +9,11 @@ h1 {
     font-weight: bold; 
     font-size: 2.5em; 
     margin: 0; 
+
+h2 {
+    text-align: right:
+}
+
 }
 
 .bar {
@@ -36,4 +41,18 @@ h1 {
 .nav a:hover {
     color: #fff; 
     text-decoration: underline; 
+}
+
+a{
+    color: #9adac0;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a:hover{
+    color: limegreen;
+}
+li{
+    list-style: none;
 }
